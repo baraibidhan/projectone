@@ -1,0 +1,411 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* header banner */
+.head-banner{
+	width: 100%;
+	float: left;
+	background: url(../img/Mache_Template-Symu_co.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
+
+}
+.unique{
+	color:#ED145B;
+}
+h1{
+	color: white;
+	text-align: center;
+	margin: 30px 0;
+}
+
+
+.nav-item{
+	margin: 25px 0;
+	padding:2px;
+
+	
+}
+.nav-link{
+	color: white;
+	font-size: 15px;
+
+}
+.three{
+	text-align: center;
+	margin-top: 100px;
+}
+h2{
+	color: white;
+}
+.underline{
+	border-bottom: 2px solid #ED145B;
+	width: 30%;
+	display: block;
+	margin: 20px 250px;
+}
+.three p{
+	color: white;
+	font-size: 16px;
+}
+.btn-one{
+	background:#ED145B;
+	border-radius: 20px;
+	border: 0 solid;
+	padding: 05px 40px;
+	margin: 20px 0 100px; 
+}
+/* header banner ENd*/
+/* Service  Start*/
+.Service{
+	width: 100%;
+	float: left;
+	background:#FFFFFF;
+}
+.four{
+	text-align: center;
+	margin-top: 100px;
+}
+.underline-one{
+	border-bottom: 2px solid #ED145B;
+	width: 30%;
+	display: block;
+	margin: 20px 185px;
+}
+.four p{
+	font-size: 12px;
+	margin-bottom: 30px;
+}
+.five{
+	margin: 30px 0 100px;
+}
+
+.card{
+	text-align: center;
+	
+}
+.card-title.title-one{
+	background-color:#5A5A5A;
+	text-align: center;
+	color: white;
+	padding: 15px 0 55px;
+	position: relative;
+}
+.text-one{
+	text-align: center;
+	padding:20px 0;
+}
+.btn-two{
+	position: absolute;
+	top: 29%;
+	left: 15%;
+	border-radius:20px;
+	padding:3px 35px;
+}
+.btn-three{
+	background:#ED145B;
+	border-radius:20px;
+	padding:3px 35px;
+	border: none;
+
+	
+}
+.card-title.title-two{
+	background-color:#ED145B;
+	text-align: center;
+	color: white;
+	padding: 15px 0 55px;
+	position: relative;
+}
+/* Service  END*/
+/* Template Start*/
+.template{
+	width: 100%;
+	float: left;
+	background:#F4F4F4;
+}
+.six h1{
+	color:black;
+	text-align:left;
+	
+
+}
+.underline-two{
+	border-bottom: 2px solid #ED145B;
+	width: 30%;
+	display: block;
+	margin-bottom: 20px;
+
+
+}
+.six h2{
+	color:#ED145B;
+	font-size:15px;
+	margin-bottom: 50px;
+
+}
+.fa.fa-play-circle{
+	color:#ED145B; 
+	font-size:20px;
+}
+.seven{
+	position: relative;
+}
+.pic-template{
+	position: absolute;
+	top:14%;
+	
+}
+/* Template End*/
+/* our-service Start*/
+.special{
+	width:100%;
+	float:left;
+	background:#F4F4F4;
+
+}
+.eight{
+	text-align:center;
+	margin-top:50px;
+}
+.underline-three{
+	border-bottom: 2px solid #ED145B;
+	width: 30%;
+	display: block;
+	text-align:center;
+	margin: 20px 180px;
+
+}
+.nine{
+	text-align: center;
+	margin-top: 50px;
+}
+.pic-special{
+	padding: 15px;
+	margin-bottom: 80px;
+}
+/* our-service END*/
+/* carousel part start*/
+.carousel{
+	width:100%;
+	float:left;
+	background: url(../img/eightco.png) center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.carousel p{
+	color:red;
+	font-size:20px;
+	margin:100px 0;
+
+}
+/* carousel part END */
+/* Resolution part start*/
+.resolution{
+	width: 100%;
+	float: left;
+	background:snow;
+}
+.twelve h1{
+	color:#ED145B;
+	font-size:15px; 
+	text-align:left;
+	text-transform: uppercase;
+
+}
+.ten{
+	margin-top: 25px;
+}
+.eleven{
+	margin-top: 35px;
+}
+/* Resolution part END*/
+/* Mache part start*/
+.mache{
+	width: 100%;
+	float: left;
+	background:#ED145B;
+}
+
+.thirteen h1{
+	text-transform: uppercase;
+	font-size:35px;
+	text-align:left;
+	font-weight:normal;
+	margin:40px 0;
+}
+.fourteen{
+	text-align:left;
+	margin-top:45px;
+
+}
+.btn-mache{
+	border-radius:18px;
+	padding:2px 30px;
+	background:snow;
+	color:#ED145B;
+	border:none;
+}
+/* Mache part END*/
+/* Updates part start*/
+.updates-one{
+	width: 100%;
+	float: left;
+	background:#FFFFFF;
+
+}
+.fifteen{
+	text-align:center;
+}
+.fifteen h2{
+	color:gray;
+	font-size: 19px;
+	margin-top: 40px;
+}
+.underline-updates{
+	border-bottom: 2px solid #ED145B;
+	width: 30%;
+	display: block;
+	
+	margin: 20px 185px;
+
+
+}
+.fifteen p{
+	color:gray;
+	font-size: 12px;
+	
+}
+
+.card-img {
+	width:100%;
+	position:relative;
+	overflow:hidden;
+
+	
+
+
+}
+.card-img-hover {
+	background:#00ff6666;
+	position:absolute;
+	width:100%;
+	height:100%;
+	top: 0;
+	right:-100%;
+	transition: 0.5s ease;
+	
+}
+.card-img:hover .card-img-hover{
+	right: 0;
+}
+
+.fa.fa-search{
+	font-size:40px;
+	position:absolute;
+	top:50%;
+	left:40%;
+	color:white;
+}
+.card-one{
+	margin:40px 0;
+}
+/*updates part end*/
+/*download part start*/
+.download{
+	width:100%;
+	float:left;
+	background:url(../img/Mache_Template-Symu_co.png) ;
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+.download-one{
+	text-align: center;
+	margin-top: 30px;
+
+}
+.underline-down{
+	border-bottom: 2px solid #ED145B;
+	width: 40%;
+	display: block;
+
+	margin: 20px 180px;
+
+}
+.download-one p{
+	color: white;
+	font-size:13px;
+	margin: 20px 0 60px;
+
+
+}
+.btn-down{
+	background:#ED145B;
+	border-radius:20px;
+	padding:7px 35px;
+	border: none;
+	margin-bottom: 80px;
+}
+/*download part END*/
+/*download-two part Start*/
+.downloadstwo{
+	width: 100%;
+	float:left;
+	background:#F4F4F4; 
+}
+.download-pic{
+	margin:50px 0;
+}
+.download-three h1{
+	color: gray;
+	font-size: 25px;
+	text-align:left;
+	margin-top:120px;
+
+}
+.underline-downstwo{
+	border-bottom: 2px solid #ED145B;
+	width: 40%;
+	display: block;
+}
+.download-three p{
+	margin: 30px 0;
+
+}
+.btn-downstwo{
+	background:#ED145B;
+	border-radius:20px;
+	padding:7px 25px;
+	border: none;
+	margin:20px 0 80px;
+
+}
+/*download-two part END*/
+/*footer part start*/
+
+.endpart{
+	background: black;
+}
+.end-one h1  {
+	font-size:12px;
+	text-transform:uppercase;
+	margin: 50px 0;
+}
+.end-two h2{
+	font-size:12px;
+	text-transform:uppercase;
+	margin: 50px 0;
+}
+
+.dot{
+	color:#ED145B;
+	font-size:30px; 
+}
+/*footer part END*/
+/*media query*/
+
+
+
+
